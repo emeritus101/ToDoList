@@ -1,6 +1,6 @@
 # ReactJS- Week 14 - ToDo-List - Week14
 <div>
-<img src="Todo_list.png" width='500'/>
+<img src="Todo_list.jpeg" width='500'/>
 
 </div>
 
